@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426977320819",
+    "firebase_url": "https://pocket-e-mitra-authentication.firebaseio.com",
+    "project_id": "pocket-e-mitra-authentication",
+    "storage_bucket": "pocket-e-mitra-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426977320819:android:359cdd19d3796d03",
+        "android_client_info": {
+          "package_name": "com.vijay.appking.auth_e_mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426977320819-ikkobegp3u4po8edseu9abgp935m1djc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTpkYpldlfk3PrpuW3Rgw2yvorcCr6pI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
